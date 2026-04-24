@@ -1,0 +1,15 @@
+E:\github roberta\atividadesenai2026\atividadesenai2026\git01\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+E:\github roberta\atividadesenai2026\atividadesenai2026\git01\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\github roberta\atividadesenai2026\atividadesenai2026\git01\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\github roberta\atividadesenai2026\atividadesenai2026\git01\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+E:\github roberta\atividadesenai2026\atividadesenai2026\git01\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\github roberta\atividadesenai2026\atividadesenai2026\git01\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\github roberta\atividadesenai2026\atividadesenai2026\git01\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\github roberta\atividadesenai2026\atividadesenai2026\git01\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\github roberta\atividadesenai2026\atividadesenai2026\git01\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\github roberta\atividadesenai2026\atividadesenai2026\git01\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+E:\github roberta\atividadesenai2026\atividadesenai2026\git01\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+E:\github roberta\atividadesenai2026\atividadesenai2026\git01\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\github roberta\atividadesenai2026\atividadesenai2026\git01\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\github roberta\atividadesenai2026\atividadesenai2026\git01\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\github roberta\atividadesenai2026\atividadesenai2026\git01\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
